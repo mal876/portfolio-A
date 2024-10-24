@@ -39,7 +39,7 @@ const Navbar = () => {
 
             <i className="bx bx-menu xl:hidden block text-5xl cursor-pointer" onClick={()=> setIsMenuOpen(!isMenuOpen)}></i>
 
-            <div className={`absolute xl:hidden top-24 left-0 w-full bg-yellow-300 text-white flex flex-col items-center gap-6 font-semibold  text-lg transform transition-transform
+            <div className={`absolute xl:hidden top-24 left-0 w-full bg-sky-300 text-white flex flex-col items-center gap-6 font-semibold  text-lg transform transition-transform
               ${isMenuOpen ? "opacity-100" : "opacity-0"}`} style={{transition: "transform 0.3s ease, opacity 0.3s ease"}} >
 
                 <li className='list-none p-2 transition-all cursor-pointer'>
