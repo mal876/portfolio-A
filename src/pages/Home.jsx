@@ -37,7 +37,7 @@ function Home() {
                         </Link>
                     </button> */}
                     <button className='bg-white border ml-9 border-white text-sky-700 text-sky-700 font-bold rounded-3xl w-28 shadow-xl p-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300'>
-                        <Link to='https://www.linkdin.com/in/malik-dekid-4773a0335'>
+                        <Link to='https://www.linkedin.com/in/malik-dekid-4773a0335'>
                           LinkedIn
                         </Link>
                     </button>
