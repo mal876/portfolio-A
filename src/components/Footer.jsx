@@ -32,7 +32,7 @@ function Footer() {
                           </Link>
                       </li>
                       <li className="mb-4">
-                          <Link to='https://www.linkdin.com/in/malik-dekid-4773a0335' className='hover:underline'>
+                          <Link to='https://www.linkedin.com/in/malik-dekid-4773a0335' className='hover:underline'>
                             LinkedIn
                           </Link>
                       </li>
