@@ -25,12 +25,12 @@ const Navbar = () => {
                       About
                     </Link>
                 </li>
-                <li className='p-2 transition-all cursor-pointer  hover:scale-110 duration-300 hover:underline hover:underline-offset-8 '>
+                <li className='p-2 transition-all cursor-pointer   hover:scale-110 duration-300 hover:underline hover:underline-offset-8 '>
                     <Link to='/project'>
                       Projects
                     </Link>
                 </li>
-                <li className='p-2 transition-all cursor-pointer hover:scale-110 duration-300 hover:underline  hover:underline-offset-8'>
+                <li className='p-2 transition-all cursor-pointer  hover:scale-110 duration-300 hover:underline hover:underline-offset-8'>
                     <Link to='/contact'>
                       Contact
                     </Link>

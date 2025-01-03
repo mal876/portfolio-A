@@ -27,9 +27,9 @@ function Home() {
               <div className='gap-12'>
                 <center>
                     <button className='bg-white border border-white text-sky-700 text-sky-700 font-bold rounded-3xl w-28 shadow-xl p-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300'>
-                        <Link to='https://Resume-A.pdf'>
+                        <a href='/My-Resume.pdf'>
                           Resume
-                        </Link>
+                        </a>
                     </button>
                     {/* <button className='bg-white border ml-9 border-white text-sky-700 text-sky-700 font-bold rounded-3xl w-28 shadow-xl p-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300'>
                         <Link to='https://github.com/mal876'>
